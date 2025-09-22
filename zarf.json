@@ -1,0 +1,20 @@
+{
+  "reaction": "☝🏼",
+  "reaction_status": "on",
+  "group": {
+    "status": "on",
+    "newSubject":" الموحّد🏴☝🏻",
+    "newDescription": "ابو عبدالسلام مر من هنا"},
+  "messages": {
+    "status": "on",
+    "mention": "الموحّد🏴☝🏻",
+    "final": "الله اكبر ☝🏼"},
+  "media": {
+    "status": "off",
+    "image": "image.jpeg"
+  },
+  "audio": {
+    "file": "",
+    "status": "off"
+  }
+}
